@@ -6,6 +6,8 @@ Options:
   - You can play against a friend on the same machine.
   - You can also play against a bot on 2 levels of difficulty (EASY and HARD).
   - A side bar containing options for changing the grid, reset the game, go to the previous move and so on.
+
+Go to bin/debug/Aplicatie.exe to start the game
  
- ENJOY!
+ENJOY!
 
