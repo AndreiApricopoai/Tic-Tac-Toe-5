@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1638358021 source:d:\facultate materie\facultate nou\facultae nou pdf\introducere in programare\aplicatie\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<cmath>
+
+1642058426 source:d:\facultate materie\facultate nou\facultae nou\introducere in programare\aplicatie\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<cmath>
+	<conio.h>
+	"functii.h"
+	"structuri.h"
+	"functii_grafica.h"
+
+1642058433 d:\facultate materie\facultate nou\facultae nou\introducere in programare\aplicatie\functii.h
+	"structuri.h"
+	"functii_grafica.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1642023435 d:\facultate materie\facultate nou\facultae nou\introducere in programare\aplicatie\structuri.h
+
+1642058434 d:\facultate materie\facultate nou\facultae nou\introducere in programare\aplicatie\functii_grafica.h
+	"functii.h"
+	"structuri.h"
+
