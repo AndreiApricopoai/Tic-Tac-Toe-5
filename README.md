@@ -9,10 +9,9 @@ Options:
 
 Go to bin/debug/Aplicatie.exe to start the game
  
-ENJOY!
+ENJOY! <br /> <br /> <br /> <br /> <br />
 
-
-![tic1](https://user-images.githubusercontent.com/77394617/216751833-94ad2abd-6b21-48ef-a233-6c8dac7c9623.jpg)
-![tic2](https://user-images.githubusercontent.com/77394617/216751838-1c827fbe-0ba4-4ab9-9ca4-95849fc41e27.jpg)
-![tic4](https://user-images.githubusercontent.com/77394617/216751839-ace2cafa-ea01-460b-a3ff-45ced32a923f.jpg)
-![tic3](https://user-images.githubusercontent.com/77394617/216751843-6dea9f8a-1cbc-4a78-a87f-84a6fcb3c1fe.jpg)
+![tic1](https://user-images.githubusercontent.com/77394617/216751833-94ad2abd-6b21-48ef-a233-6c8dac7c9623.jpg)  <br /> <br /> <br /> <br /> <br /> 
+![tic2](https://user-images.githubusercontent.com/77394617/216751838-1c827fbe-0ba4-4ab9-9ca4-95849fc41e27.jpg)  <br /> <br /> <br /> <br /> <br /> 
+![tic4](https://user-images.githubusercontent.com/77394617/216751839-ace2cafa-ea01-460b-a3ff-45ced32a923f.jpg)  <br /> <br /> <br /> <br /> <br /> 
+![tic3](https://user-images.githubusercontent.com/77394617/216751843-6dea9f8a-1cbc-4a78-a87f-84a6fcb3c1fe.jpg)  <br /> <br /> <br /> <br /> <br /> 
